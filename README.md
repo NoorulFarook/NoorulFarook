@@ -8,3 +8,6 @@
 NoorulFarook/NoorulFarook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Im Noorul Farook 
+Im white hat company founder
+cyber security ethical hacking and penetration testing 
